@@ -1,7 +1,7 @@
 # Light-Dependent Variations in Fatty Acid Profiles and Gene Expression in Antarctic Microalgal Cultures
 
 ### Contents
-[Overview](#overview)   |   [Abstract](#abstract)   |   [Script Files](#script-files)   |   [Metadata Examples](#metadata-examples)   |   [R Requirements](#r-requirements)
+[Overview](#overview)   |   [Abstract](#abstract)   |   [Script Files](#script-files)   |   [Metadata examples](#metadata-examples)   |   [R Requirements](#r-requirements)
   
 ## Overview
 This repository contains R scripts used to process and analyze fatty acid (FA) percentage data and transcriptomic data for the study:
@@ -30,7 +30,7 @@ The study revealed changes in growth rates and FA composition under different li
     - `PhD_Ch6_TranscriptomicsAnalysis`: Preprocessing and analysis of transcriptomic data.
 
 ## Metadata examples
-Below are examples of the .csv data layouts required for each analysis script:
+Below are examples of the types of files and metadata file layouts required for each analysis script:
 
 ### Fatty Acid (FA) Analysis Metadata
 For FA analysis you need a `.csv` file, which includes the FA percent data and relevant metadata (see below)
