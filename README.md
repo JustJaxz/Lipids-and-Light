@@ -1,7 +1,7 @@
 # Light-Dependent Variations in Fatty Acid Profiles and Gene Expression in Antarctic Microalgal Cultures
 
 ### Contents
-[Overview](#overview)   |   [Research abstract](#abstract)   |   [Script files](#repository-contents)   |   [Metadata examples](#metadata-examples)   |   [R requirements](#r-requirements)
+[Overview](#overview)   |   [Abstract](#abstract)   |   [Script Files](#script-files)   |   [Metadata Examples](#metadata-examples)   |   [R Requirements](#r-requirements)
   
 ## Overview
 This repository contains R scripts used to process and analyze fatty acid (FA) percentage data and transcriptomic data for the study:
@@ -9,10 +9,12 @@ This repository contains R scripts used to process and analyze fatty acid (FA) p
 **Title:** Light-Dependent Variations in Fatty Acid Profiles and Gene Expression in Antarctic Microalgal Cultures  
 **Authors:** Jacqui Stuart<sup>1, 2</sup>, Kirsty F. Smith<sup>2</sup>, Matt Miller<sup>2</sup>, John K. Pearman<sup>2</sup>, Natalie Robinson<sup>3</sup>, Lesley Rhodes<sup>2</sup>, Lucy Thompson<sup>2</sup>, Sarah Challenger<sup>2</sup>, Nicole Parnell<sup>4</sup>, Ken G. Ryan<sup>1</sup>  
 **Affiliations:**  
-1. School of Biological Sciences, Victoria University of Wellington, PO Box 600, Wellington 6140, New Zealand  
-2. Cawthron Institute, Private Bag 2, Nelson 7042, New Zealand  
-3. National Institute of Water and Atmospheric Research (NIWA), Private Bag 14901, Kilbirnie, Wellington 6241  
-4. Lincoln University, 85084 Ellesmere Junction Road, Lincoln 7647  
+1. [School of Biological Sciences, Victoria University of Wellington](https://www.victoria.ac.nz/sbs), Wellington, New Zealand  
+2. [Cawthron Institute](https://www.cawthron.org.nz), Nelson, New Zealand  
+3. [National Institute of Water and Atmospheric Research (NIWA)](https://www.niwa.co.nz), Wellington, New Zealand  
+4. [Lincoln University](https://www.lincoln.ac.nz), Lincoln, New Zealand
+
+![Graphical abstract for experiment](PhD_Ch6_GraphicalAbstract-sml.png)
 
 ## Abstract
 Photosynthetic eukaryotic microalgae are key primary producers in the sea ice environment. Anticipated changes in sea ice thickness and snow load due to climate change may cause substantial shifts in available light to these ice-associated organisms. This study used a laboratory-based experiment to investigate how light levels, simulating different sea ice thicknesses, affect FA composition in two ice-associated microalgae species: *Nitzschia cf. biundulata* and *Polarella glacialis*. Transcriptomic analyses and fatty acid profiling were used to assess the impact of three light levels:  
