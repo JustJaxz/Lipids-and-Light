@@ -14,7 +14,7 @@ This repository contains R scripts used to process and analyze fatty acid (FA) p
 3. [National Institute of Water and Atmospheric Research (NIWA)](https://www.niwa.co.nz), Wellington, New Zealand  
 4. [Lincoln University](https://www.lincoln.ac.nz), Lincoln, New Zealand
 
-![Graphical abstract for experiment](PhD_Ch6_GraphicalAbstract-sml.png)
+![Graphical abstract for experiment](images/PhD_Ch6_GraphicalAbstract-sml.png)
 
 ## Abstract
 Photosynthetic eukaryotic microalgae are key primary producers in the sea ice environment. Anticipated changes in sea ice thickness and snow load due to climate change may cause substantial shifts in available light to these ice-associated organisms. This study used a laboratory-based experiment to investigate how light levels, simulating different sea ice thicknesses, affect FA composition in two ice-associated microalgae species: *Nitzschia cf. biundulata* and *Polarella glacialis*. Transcriptomic analyses and fatty acid profiling were used to assess the impact of three light levels:  
